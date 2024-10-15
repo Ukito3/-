@@ -1,0 +1,17 @@
+#countdown {
+    font-size: 2rem;
+    color: #333;
+    margin-top: 20px;
+  }
+  
+  #countdown span {
+    display: inline-block;
+    min-width: 80px;
+    text-align: center;
+    background-color: #f39c12;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0 5px;
+  }
+  
